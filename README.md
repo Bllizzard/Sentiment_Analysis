@@ -16,6 +16,7 @@ Next important feature is the polarity. which means the positive when the number
 Overall, Canadian twitter users’ view of healthcare topic is prone to positive, based on the mean of polarity is 0.055 and the histogram is slightly screw to the right.
 
 Processing steps:
+
 Step 1: <Data extraction from multiple Json files>
 Tools: Python3, Pyspark, Pyspark.sql
 1. The raw tweets have lots of irrelevant schemas and redundance need to be discarded. 
