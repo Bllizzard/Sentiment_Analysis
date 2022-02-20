@@ -1,8 +1,6 @@
 # Sentiment_Analysis
 Healthcare Topic from Canadian Twitter Users
 
-The datasets are downloaded from the Harvard Dataverse using Hydrator tools. Those tweets are collected through healthcare relevant filter. There have 259GB JSON files were downloaded. 446011 tweets are posted by Canadian Twitter Users, after dropping the duplicates, only 294556 records left.
-
 The basic selected features(attributes):
 1. year, month, day (which were split from tweets created date) are the records created date. This datasets have 3, 5, 6, 7, 8, 9, 10 seven monthes.
 2. user_name is the user’s profile name.
